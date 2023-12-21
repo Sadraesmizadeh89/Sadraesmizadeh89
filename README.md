@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sadraesmi zadeh
-- 👀 I’m interested in pyThon
-- 🌱 I’m currently learning pyThon
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞
 - 📫
 
